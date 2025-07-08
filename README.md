@@ -32,7 +32,6 @@
 
 - **WebXR Ready** - Future-proof VR support
 - **3D Physics Engine** - Realistic object behavior
-- **Spatial Audio** - Immersive soundscapes
 
 
 <img width="1470" alt="Screenshot 2025-07-08 at 21 59 49" src="https://github.com/user-attachments/assets/96a92e52-e588-4a27-953f-a8878dcac1c0" />
